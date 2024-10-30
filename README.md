@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</div>
+<br>
+
 # 💫 About Me:
 a fullstack developer who works by prioritizing the best results by managing projects and time well, has communication skills and research business processes thoroughly and has experience in working as a team or individually and is able to deal with problems and work pressure well.
 
